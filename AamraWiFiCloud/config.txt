@@ -1,0 +1,6 @@
+{
+    "server" : "182.160.96.234",
+    "SSID": "aamra WiFi",
+    "category": "HoReCa",
+    "deviceType": "Mikrotik"    
+}
