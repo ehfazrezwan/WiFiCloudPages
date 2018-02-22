@@ -1,6 +1,6 @@
 # aamra/WE WiFi Cloud Pages
 
-**Cloud based pages for Mikrotik WiFi hotspots. Hits the [WiFiCloudAPI](https://github.com/ehfaz345/WiFiCloudAPI) to submit data to the RADIUS server and SMS gateway. **
+** Cloud based pages for Mikrotik WiFi hotspots. Hits the [WiFiCloudAPI](https://github.com/ehfaz345/WiFiCloudAPI) to submit data to the RADIUS server and SMS gateway. **
 
 ### Description
 
